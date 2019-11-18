@@ -12,6 +12,10 @@ These are [annotations](annotations/) — quotations, comments, notes, etc  — 
   * [Chapter 5: Interview With An Inventor](annotations/section_1/chapter_5/)
   * [Chapter 6: Interview With A Publisher](annotations/section_1/chapter_6/)
 * Section 2: How The Industry Works
+  * Chapter 7: What's In It For You?
+  * Chapter 8: How New Games Happen
+  * Chapter 9: Anatomy of a Publisher
+  * Chapter 10: Markets For Games
 * Section 3: Games And Companies Your Should Know
 * Section 4: Self_Publishing
 * Section 5: Selling A Game Step By Step
