@@ -8,4 +8,4 @@ These are [annotations](../) — quotations, comments, notes, etc  — by [Charl
 * Chapter 3: Dungeons And Dragons
 * [Chapter 4: The Pokemon Trading Card Game](chapter_4/)
 * [Chapter 5: Interview With An Inventor](chapter_5/)
-* Chapter 6: Interview With A Publisher
+* [Chapter 6: Interview With A Publisher](chapter_6/)

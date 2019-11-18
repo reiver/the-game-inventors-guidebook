@@ -10,7 +10,7 @@ These are [annotations](annotations/) — quotations, comments, notes, etc  — 
   * Chapter 3: Dungeons And Dragons
   * [Chapter 4: The Pokemon Trading Card Game](annotations/section_1/chapter_4/)
   * [Chapter 5: Interview With An Inventor](annotations/section_1/chapter_5/)
-  * Chapter 6: Interview With A Publisher
+  * [Chapter 6: Interview With A Publisher](annotations/section_1/chapter_6/)
 * Section 2: How The Industry Works
 * Section 3: Games And Companies Your Should Know
 * Section 4: Self_Publishing
