@@ -11,7 +11,7 @@ These are [annotations](annotations/) — quotations, comments, notes, etc  — 
   * [Chapter 4: The Pokemon Trading Card Game](annotations/section_1/chapter_4/)
   * [Chapter 5: Interview With An Inventor](annotations/section_1/chapter_5/)
   * [Chapter 6: Interview With A Publisher](annotations/section_1/chapter_6/)
-* Section 2: How The Industry Works
+* [Section 2: How The Industry Works](annotations/section_2/)
   * [Chapter 7: What's In It For You?](annotations/section_2/chapter_7/)
   * Chapter 8: How New Games Happen
   * Chapter 9: Anatomy of a Publisher
