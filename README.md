@@ -46,3 +46,5 @@ Someone who has been in the (electronic) video game industry a number of times.
 And someone who has created a number of startups, and companies.
 
 To me, the way this book describes how physical games are created sounds similar to how Tech startups, and Tech companies are created.
+
+Which is not surprising to me, as developing physical games is just a specific instance of developing products.
